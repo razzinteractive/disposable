@@ -15,5 +15,6 @@ module.exports = {
             return isValid
         }
         callback(null, isValid)
-    }
+    },
+    domains: arr
 }
