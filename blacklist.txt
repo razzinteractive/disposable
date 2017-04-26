@@ -20,3 +20,7 @@ anonymize.com
 fakeinbox.info
 cd.mintemail.com
 mailna.in
+10minutemail.be
+10minutesmail.fr
+10minutemail.nl
+10minutemail.pl

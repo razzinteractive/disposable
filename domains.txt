@@ -21,6 +21,7 @@
 10mail.com
 10mail.org
 10minut.com.pl
+10minutemail.be
 10minutemail.cf
 10minutemail.co.uk
 10minutemail.co.za
@@ -30,9 +31,12 @@
 10minutemail.gq
 10minutemail.ml
 10minutemail.net
+10minutemail.nl
+10minutemail.pl
 10minutemail.us
 10minutenemail.de
 10minutesmail.com
+10minutesmail.fr
 10x.es
 10x9.com
 117.yyolf.net
